@@ -3,14 +3,10 @@
 ## Introduction
 As a requirement for whether or not I would be considered for an Adobe Internship, I was tasked with creating the three websites I am showcasing here. Each project had a specific set of parameters in mind but in terms of creativity, I was allowed to flex however which way I liked within the time constraints.<br/><br/>
 So of course I was going to have a little fun with it.
-<br/><br/>
-[Project One](#project-one--personal-website)<br/>
-[Project Two](#project-two--blog-website)<br/>
-[Project Three](#project-three--business-website)<br/>
-
-[Project One](#project-one)<br/>
-[Project Two](#project-two)<br/>
-[Project Three](#project-three)
+<br/>
+[Project One – Personal Website](#project-one--personal-website)<br/>
+[Project Two – Blog Website](#project-two--blog-website)<br/>
+[Project Three – Business Website](#project-three--business-website)
 <br/><br/><br/>
 
 ## Project Parameters and Purpose
@@ -19,7 +15,6 @@ The projects were to gauge my understanding of web development; specifically wit
 I have included a preview image of the final product for each project as reference.
 <br/><br/><br/><br/><br/><br/>
 
-<a name="project-one"></a>
 ## Project One – Personal Website
 [Personal Website Index](./P1__Personal_Website/index.html)<br/>
 [Personal Website Preview](./P1__Personal_Website/PersonalWebsitePreview.png)
@@ -88,7 +83,6 @@ The handler for user input was my workaround to the inability to use a “+” a
 ```
 <br/><br/><br/><br/><br/><br/>
 
-<a name="project-two"></a>
 ## Project Two – Blog Website
 [Blog Website Index](./P2__Blog_theme/index.html)<br/>
 [Blog Website Preview](./P2__Blog_theme/BlogWebsitePreview.png)
@@ -105,7 +99,6 @@ I had a lot of fun with this one. As someone who likes to write short stories, t
 Because of the scope of this project in particular, there are too many pain points where not having a “+” symbol would result in spaghetti code and work arounds that are not up to my personal standards let alone JavaScript. This is a representation of what I would have really done.
 <br/><br/><br/><br/><br/><br/>
 
-<a name="project-three"></a>
 ## Project Three – Business Website
 [Business Website Index](./P3__Business_Website/index.html)<br/>
 [Business Website Preview](./P3__Business_Website/BusinessWebsitePreview.png)
